@@ -8,7 +8,7 @@ const Navbar = () => {
       style={{ zIndex: "5000" }}
     >
       <a href="/" target="_blank" rel="noopener noreferrer">
-        <img src="/src/assets/logo.png" className="h-20" alt="logo" />
+        <img src="/logo.png" className="h-20" alt="logo" />
       </a>
 
       <a
@@ -35,7 +35,7 @@ const Navbar = () => {
       </a>
 
       <a href="http://nitm.ac.in" target="_blank" rel="noopener noreferrer">
-        <img src="/src/assets/NITM.png" alt="nitm-logo" className="h-20" />
+        <img src="/NITM.png" alt="nitm-logo" className="h-20" />
       </a>
     </nav>
   );
